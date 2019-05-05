@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerView</string>
+    <string name="random_image_url">https://picsum.photos/%1$d</string>
+    <string name="footer_header">Copyright 2019 hyunstyle. All rights reserved.</string>
+    <string name="footer_content">this example is using Glide &amp; picsum-photos.\ndetailed license has been uploaded on github.</string>
+    <string name="click">Well done! %1$s clicked.</string>
+    <string name="remove">Well done! %1$s successfully removed.</string>
+    <string name="header">%1$s completely removed!</string>
+</resources>
