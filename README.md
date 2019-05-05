@@ -13,7 +13,6 @@ special thanks to Glide and picsum-photos.
 
 
 ## License
-MIT License.
 see [License][3]
 
 
